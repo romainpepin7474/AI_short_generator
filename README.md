@@ -1,4 +1,11 @@
-Introduction
-The goal of the project is to create a short with the content of website gathering different kind of fact. 
-The fact object use Google APP to use TTS model, ChatGPT API to create a prompt for image generation, and DALLE3 API to create image
-The short objet gather multiple facts together to create the short video.
+# FactShorts: Automated Short Video Creation
+
+## Introduction
+
+Welcome to **AI short generator**, a project designed to create engaging short videos by gathering and presenting fascinating facts from the web. Each video is a compilation of multiple facts, enhanced with AI-generated visuals and text-to-speech narration.
+
+This project leverages cutting-edge technologies, including:
+
+- **Google Text-to-Speech (TTS)** for natural-sounding narration.
+- **ChatGPT API** to craft creative prompts for image generation.
+- **DALL·E 3 API** to generate stunning visuals for each fact.
